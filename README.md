@@ -128,20 +128,12 @@ Becoming placement-ready 🚀
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=NithinM2387&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithinM2387&layout=compact&hide_border=true&langs_count=8&theme=transparent"
-    height="180"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NithinM2387&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithinM2387&layout=compact&hide_border=true&langs_count=8&theme=transparent" width="48%" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=NithinM2387&hide_border=true&theme=transparent"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NithinM2387&show_icons=true&theme=transparent" width="60%" />
 </p>
 
 ---
@@ -160,10 +152,7 @@ Becoming placement-ready 🚀
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=NithinM2387&theme=flat&no-frame=true&margin-w=10&row=1"
-    width="90%"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=NithinM2387&theme=flat&no-frame=true&margin-w=10&row=1&column=6" width="90%" />
 </p>
 
 ---
