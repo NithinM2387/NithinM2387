@@ -128,7 +128,7 @@ Becoming placement-ready 🚀
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="./profile-summary-card-output/default/3-stats.svg" alt="GitHub statistics" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics" width="49%" />
 </p>
 
 ---
@@ -136,7 +136,7 @@ Becoming placement-ready 🚀
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="./profile-summary-card-output/default/0-profile-details.svg" alt="Contribution activity graph" width="95%" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Contribution activity graph" width="95%" />
 </p>
 
 ---
@@ -144,7 +144,7 @@ Becoming placement-ready 🚀
 ## 🏆 GitHub Overview
 
 <p align="center">
-  <img src="./profile-summary-card-output/default/4-productive-time.svg" alt="GitHub productivity overview" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="GitHub productivity overview" width="49%" />
 </p>
 
 ---
@@ -152,8 +152,8 @@ Becoming placement-ready 🚀
 ## 💻 Top Languages
 
 <p align="center">
-  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Top languages by repository" width="49%" />
-  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" alt="Top languages by commit" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages by repository" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages by commit" width="49%" />
 </p>
 
 ## 📚 Currently Learning
@@ -218,7 +218,7 @@ Becoming placement-ready 🚀
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://leetcode.com/u/nithinm2387/" target="_blank">
+  <a href="https://leetcode.com/u/48s3DjUkxd/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 
