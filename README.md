@@ -171,48 +171,43 @@ Becoming placement-ready 🚀
 ## 📚 Currently Learning
 
 <p align="center">
-
-`Data Structures & Algorithms` •
-`System Design` •
-`Docker` •
-`CI/CD` •
-`AWS` •
-`Backend Architecture` •
-`API Security`
-
+  <strong>DSA</strong> •
+  <strong>System Design</strong> •
+  <strong>Docker</strong> •
+  <strong>CI/CD</strong> •
+  <strong>AWS</strong> •
+  <strong>Backend Architecture</strong> •
+  <strong>API Security</strong>
 </p>
 
 ---
 
 ## 🎯 My Development Focus
 
-<table align="center">
+<table>
   <tr>
     <td align="center" width="25%">
       <h3>💻 Development</h3>
-      Full-Stack<br/>
-      REST APIs<br/>
+      Full-Stack<br>
+      REST APIs<br>
       Backend Systems
     </td>
-
     <td align="center" width="25%">
       <h3>🔐 Security</h3>
-      JWT<br/>
-      API Security<br/>
+      JWT<br>
+      API Security<br>
       Authentication
     </td>
-
     <td align="center" width="25%">
       <h3>☁️ Deployment</h3>
-      Docker<br/>
-      Cloud<br/>
+      Docker<br>
+      Cloud<br>
       CI/CD
     </td>
-
     <td align="center" width="25%">
       <h3>🧠 Growth</h3>
-      DSA<br/>
-      System Design<br/>
+      DSA<br>
+      System Design<br>
       Problem Solving
     </td>
   </tr>
@@ -223,33 +218,29 @@ Becoming placement-ready 🚀
 ## 🤝 Connect With Me
 
 <p align="center">
+  <a href="https://nithinm-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
-<a href="https://nithinm-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+  <a href="https://github.com/NithinM2387" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-<a href="https://github.com/NithinM2387" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/nithin-m-25348635a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="https://www.linkedin.com/in/nithin-m-25348635a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://leetcode.com/u/nithinm2387/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 
-<a href="https://leetcode.com/u/nithinm2387/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<a href="mailto:nithinm1242@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+  <a href="mailto:nithinm1242@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
-### Building. Learning. Deploying. Improving. 🚀
-
+  <b>Building. Learning. Deploying. Improving. 🚀</b>
 </p>
