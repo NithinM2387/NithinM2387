@@ -73,6 +73,8 @@ I'm Nithin M, an Information Science & Engineering student at **RV Institute of 
 
 Full-stack grocery delivery platform with authentication, product management, cart, orders, payments, and admin functionality.
 
+🌐 **Live Demo:** [Grocery Delivery Platform](grocery-delivery-nithin.vercel.app)
+
 **Tech:** React · Node.js · Express.js · MongoDB · JWT · REST API
 
 ---
@@ -91,6 +93,8 @@ AI-powered website builder project.
 
 Production-oriented backend API covering authentication, user management, product/category management, cart, wishlist, orders, payments, invoices, and administration.
 
+🌐 **Live API:** [Secure E-Commerce REST API](https://secure-ecommerce-backend-kfy3.onrender.com/api-docs)
+
 **Tech:** Node.js · Express.js · MongoDB · JWT · Redis · BullMQ · Stripe · Cloudinary · Docker · Swagger · Jest · Render
 
 ---
@@ -98,6 +102,8 @@ Production-oriented backend API covering authentication, user management, produc
 ### 🍽️ Restaurant Management Platform
 
 A full-stack restaurant platform focused on managing restaurant operations, menus, orders, users, and related workflows through a secure web application.
+
+🌐 **Live Demo:** [Restaurant Management Platform](https://quickdine-restaurant-booking.vercel.app/)
 
 **Tech:** React · Node.js · Express.js · MongoDB · JWT · REST API
 
