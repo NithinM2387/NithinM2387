@@ -73,7 +73,7 @@ I'm Nithin M, an Information Science & Engineering student at **RV Institute of 
 
 Full-stack grocery delivery platform with authentication, product management, cart, orders, payments, and admin functionality.
 
-🌐 **Live Demo:** [Grocery Delivery Platform](grocery-delivery-nithin.vercel.app)
+🌐 **Live Demo:** [Grocery Delivery Platform](https://grocery-delivery-nithin.vercel.app)
 
 **Tech:** React · Node.js · Express.js · MongoDB · JWT · REST API
 
