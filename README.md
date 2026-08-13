@@ -22,15 +22,16 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-- Information Science &amp; Engineering student at **RV Institute of Technology and Management**
-- Full-stack developer focused on **MERN and backend development**
-- Interested in **REST APIs, databases, system design, API security, and scalable architectures**
-- Exploring **Docker, CI/CD, Cloud, AWS, and DevOps**
-- Currently strengthening **DSA and problem solving**
-- I learn by **building, deploying, debugging, and improving real projects**
-- Goal: become a strong software engineer capable of taking products from idea to deployment
+I'm Nithin M, an Information Science & Engineering student at **RV Institute of Technology and Management** and a **full-stack developer** who enjoys turning ideas into practical, production-ready applications.
+
+- 💻 Building full-stack applications with **MERN, REST APIs, and backend systems**
+- 🧩 Interested in **API security, databases, system design, and scalable architectures**
+- ☁️ Exploring **Docker, CI/CD, AWS, Cloud, and DevOps**
+- 🛠️ I learn by **building, deploying, debugging, and improving real-world projects**
+- 🧠 Currently strengthening my **DSA, problem-solving, and backend architecture skills**
+- 🚀 My goal is to grow into a **software engineer capable of taking products from idea to deployment**
 
 ## Tech Stack
 
