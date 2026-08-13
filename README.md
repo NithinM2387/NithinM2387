@@ -125,18 +125,10 @@ Becoming placement-ready 🚀
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/NithinM2387">
-    <img src="https://img.shields.io/badge/GitHub-NithinM2387-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NithinM2387?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20My%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="./profile-summary-card-output/default/3-stats.svg" alt="GitHub statistics" width="49%" />
 </p>
 
 ---
@@ -144,23 +136,24 @@ Becoming placement-ready 🚀
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NithinM2387&hide_border=true&area=true&theme=github-compact"
-    width="95%"
-  />
+  <img src="./profile-summary-card-output/default/0-profile-details.svg" alt="Contribution activity graph" width="95%" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Overview
 
 <p align="center">
-  <a href="https://github.com/NithinM2387">
-    <img src="https://img.shields.io/badge/Repositories-View-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/NithinM2387?tab=stars">
-    <img src="https://img.shields.io/badge/Starred%20Projects-View-FFA116?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="./profile-summary-card-output/default/4-productive-time.svg" alt="GitHub productivity overview" width="49%" />
+</p>
+
+---
+
+## 💻 Top Languages
+
+<p align="center">
+  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Top languages by repository" width="49%" />
+  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" alt="Top languages by commit" width="49%" />
 </p>
 
 ## 📚 Currently Learning
