@@ -66,33 +66,39 @@
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Grocery Delivery Platform
+### 🛒 Grocery Delivery Platform
 
 Full-stack grocery delivery platform with authentication, product management, cart, orders, payments, and admin functionality.
 
-**Tech:** React • Node.js • Express.js • MongoDB • JWT • REST API
+**Tech:** React · Node.js · Express.js · MongoDB · JWT · REST API
 
-### AI Website Builder
+---
+
+### 🤖 AI Website Builder
 
 AI-powered website builder project.
 
-**Live:** [AI Website Builder](https://ai-website-builder-ai.vercel.app/)
+🌐 **Live Demo:** [AI Website Builder](https://ai-website-builder-ai.vercel.app/)
 
-**Tech:** React • Node.js • Express.js • MongoDB • JWT • REST API
+**Tech:** React · Node.js · Express.js · MongoDB · JWT · REST API
 
-### Secure E-Commerce REST API
+---
+
+### 🔐 Secure E-Commerce REST API
 
 Production-oriented backend API covering authentication, user management, product/category management, cart, wishlist, orders, payments, invoices, and administration.
 
-**Tech:** Node.js • Express.js • MongoDB • JWT • Redis • BullMQ • Stripe • Cloudinary • Docker • Swagger • Jest • Render
+**Tech:** Node.js · Express.js · MongoDB · JWT · Redis · BullMQ · Stripe · Cloudinary · Docker · Swagger · Jest · Render
 
-### Restaurant Management Platform
+---
+
+### 🍽️ Restaurant Management Platform
 
 A full-stack restaurant platform focused on managing restaurant operations, menus, orders, users, and related workflows through a secure web application.
 
-**Tech:** React • Node.js • Express.js • MongoDB • JWT • REST API
+**Tech:** React · Node.js · Express.js · MongoDB · JWT · REST API
 
 ---
 
