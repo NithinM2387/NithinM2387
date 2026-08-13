@@ -1,192 +1,206 @@
-Redesign my GitHub profile README.md into a modern GitHub developer dashboard inspired by the attached reference image.
+::: {align="center"}
+# Hi 👋, I'm Nithin M
+
+### Software Engineer • MERN Stack Developer • Full-Stack Developer
 
-IMPORTANT:
-Do NOT copy the other person's name, statistics, text, or personal information.
-Use the reference only for the overall dashboard structure, visual hierarchy, cards, and information layout.
+```{=html}
+<p>
+```
+`<a href="https://nithinm-portfolio.vercel.app/" target="_blank">`{=html}
+`<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>`{=html}
+`</a>`{=html}
+`<a href="https://linkedin.com/in/nithin-m-03a10a35b/" target="_blank">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}
+`</a>`{=html} `<a href="mailto:nithinm1242@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>`{=html}
+`</a>`{=html}
+```{=html}
+</p>
+```
+`<img src="https://komarev.com/ghpvc/?username=NithinM2387&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views"/>`{=html}
+:::
 
-PERSONAL INFORMATION
+------------------------------------------------------------------------
 
-Name:
-Nithin M
+## 👨‍💻 About Me
 
-Role:
-Software Engineer • MERN Stack Developer • Full-Stack Developer
+I'm **Nithin M**, an Information Science & Engineering student and
+aspiring software engineer focused on building practical, scalable
+full-stack applications.
 
-Portfolio:
-https://nithinm-portfolio.vercel.app/
+-   🎓 Information Science & Engineering student
+-   💻 Full-stack development with the MERN ecosystem
+-   🔐 Interested in secure REST API and backend development
+-   🗄️ Working with SQL and NoSQL databases
+-   ☁️ Exploring Docker, cloud deployment, DevOps and CI/CD
+-   🧠 Currently strengthening Data Structures & Algorithms
+-   🚀 Enjoy turning ideas into real-world, deployable products
+
+------------------------------------------------------------------------
 
-GitHub:
-https://github.com/NithinM2387
+## 📊 GitHub Dashboard
 
-LinkedIn:
-https://linkedin.com/in/nithin-m-03a10a35b/
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td align="center" width="50%">
+```
+### 📈 GitHub Stats
+
+`<img src="https://github-readme-stats.vercel.app/api?username=NithinM2387&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="GitHub Stats"/>`{=html}
+
+```{=html}
+</td>
+```
+```{=html}
+<td align="center" width="50%">
+```
+### 🔥 Contribution Streak
 
-Email:
-nithinm1242@gmail.com
+`<img src="https://streak-stats.demolab.com?user=NithinM2387&hide_border=true&theme=transparent" alt="GitHub Streak"/>`{=html}
 
-LeetCode:
-https://leetcode.com/u/nithinm2387/
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
+::: {align="center"}
+### 🏆 GitHub Achievements
 
-ABOUT ME
+`<img src="https://github-profile-trophy.vercel.app/?username=NithinM2387&theme=flat&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies"/>`{=html}
+:::
 
-Information Science & Engineering student focused on full-stack development, backend engineering, REST APIs, databases, system architecture, and deployment.
+------------------------------------------------------------------------
 
-I enjoy building real-world applications, designing secure APIs, working with databases, and deploying production-ready projects.
+## 🛠️ Tech Stack
 
-TECH STACK
+::: {align="center"}
+### Languages
 
-Languages:
-JavaScript, Python, Java, HTML, CSS
+`<img src="https://skillicons.dev/icons?i=js,python,java,html,css" alt="Languages"/>`{=html}
 
-Frontend:
-React, Tailwind CSS
+### Frontend
 
-Backend:
-Node.js, Express.js
+`<img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend"/>`{=html}
 
-Databases:
-MongoDB, MySQL, PostgreSQL, Redis
+### Backend & Databases
 
-Backend / API:
-REST APIs, JWT, Swagger
+`<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis" alt="Backend and Databases"/>`{=html}
 
-DevOps / Cloud:
-Git, GitHub, Docker, Jenkins, AWS, Linux, Render
+### DevOps & Cloud
 
-Other:
-Firebase, Figma, Postman, Stripe, Cloudinary, BullMQ, Jest
+`<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,aws,linux" alt="DevOps and Cloud"/>`{=html}
 
-README DASHBOARD STRUCTURE
+### Tools
 
-Create the README in a dashboard/card-based layout similar to the attached reference.
+`<img src="https://skillicons.dev/icons?i=figma,firebase" alt="Tools"/>`{=html}
+:::
 
-1. HEADER
+------------------------------------------------------------------------
 
-Create a centered header:
+## 📈 Contribution Activity
 
-"Hi 👋, I'm Nithin M"
+::: {align="center"}
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=NithinM2387&hide_border=true&area=true&theme=github-compact" alt="Nithin's Contribution Graph"/>`{=html}
+:::
 
-Under it:
+------------------------------------------------------------------------
 
-"Software Engineer • MERN Stack Developer • Full-Stack Developer"
+## 💻 Top Languages
 
-Add compact badges for:
-- Profile Views
-- Followers
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td align="center" width="50%">
+```
+### By Repository
 
-Do not make the header unnecessarily large.
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithinM2387&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top Languages by Repository"/>`{=html}
 
-2. GITHUB OVERVIEW / STATS
+```{=html}
+</td>
+```
+```{=html}
+<td align="center" width="50%">
+```
+### By Commit
 
-Create a visually organized stats dashboard containing cards for:
+`<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NithinM2387&theme=github_dark" alt="Top Languages by Commit"/>`{=html}
 
-- Total Stars Earned
-- Total Commits
-- Total Pull Requests
-- Total Issues
-- Contributions
-- Current Streak
-- Longest Streak
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
 
-Use dynamic GitHub statistics wherever possible.
+------------------------------------------------------------------------
 
-Do NOT hardcode fake statistics.
+## 🚀 Featured Projects
 
-Use:
-username = NithinM2387
+### 🛒 Grocery Delivery Platform
 
-3. TECH STACK
+Full-stack grocery delivery application with authentication, product
+management, cart, orders, payments, and admin functionality.
 
-Create a dedicated "🛠️ Tech Stack" section.
+**Tech:** React • Node.js • Express • MongoDB • JWT • REST API
 
-Use skill icons rather than a long text list.
+### 📝 Smart Notes Hub
 
-Organize the technologies cleanly in rows/categories.
+Modern notes management application with authentication, search,
+Markdown support, drag-and-drop organization, color-coded notes,
+trash/restore functionality, and dark/light mode.
 
-Use icons for the technologies listed above.
+**Tech:** React • Node.js • Express • MongoDB • JWT • Tailwind CSS
 
-Keep the visual style compact and similar to the reference image.
+### 🔐 Secure E-Commerce REST API
 
-4. CONTRIBUTION ACTIVITY
+Production-oriented REST API covering authentication, user management,
+products, categories, cart, wishlist, orders, payments, invoices, and
+administration.
 
-Add a large contribution activity section.
+**Tech:** Node.js • Express.js • MongoDB • JWT • Redis • BullMQ • Stripe
+• Cloudinary • Docker • Swagger • Jest • Render
 
-Use a GitHub contribution graph/activity graph for:
+------------------------------------------------------------------------
 
-NithinM2387
+## 📌 What I'm Working On
 
-Make this one of the main dashboard cards.
+-   Building production-oriented full-stack applications
+-   Improving backend architecture and API security
+-   Learning more about Docker, cloud deployment and DevOps
+-   Strengthening DSA and problem-solving skills
+-   Turning project ideas into deployable products
 
-5. GITHUB OVERVIEW
+------------------------------------------------------------------------
 
-Add a smaller card beside or below the contribution graph showing GitHub overview statistics.
+## 🤝 Connect With Me
 
-Use dynamic data.
+::: {align="center"}
+`<a href="https://nithinm-portfolio.vercel.app/" target="_blank">`{=html}`<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>`{=html}`</a>`{=html}
+`<a href="https://github.com/NithinM2387" target="_blank">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}`</a>`{=html}
+`<a href="https://linkedin.com/in/nithin-m-03a10a35b/" target="_blank">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}`</a>`{=html}
+`<a href="https://leetcode.com/u/nithinm2387/" target="_blank">`{=html}`<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>`{=html}`</a>`{=html}
+`<a href="mailto:nithinm1242@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>`{=html}`</a>`{=html}
+:::
 
-6. TOP LANGUAGES
+------------------------------------------------------------------------
 
-Create two separate visual cards:
-
-"Top Languages by Repository"
-
-and
-
-"Top Languages by Commit"
-
-Use dynamic GitHub language statistics.
-
-7. CONNECT
-
-At the bottom, add compact links/badges for:
-
-Portfolio
-GitHub
-LinkedIn
-LeetCode
-Email
-
-DESIGN REQUIREMENTS
-
-- Dark developer-dashboard aesthetic.
-- Clean borders and card sections.
-- Compact spacing.
-- Modern but professional.
-- Use cyan/blue/purple accents where appropriate.
-- Keep the README visually balanced.
-- Avoid excessive emojis.
-- Avoid huge paragraphs.
-- Use centered sections where appropriate.
-- Make the dashboard look like a polished developer profile rather than a generic README.
-- Keep all statistics dynamic.
-- Make sure images render correctly on GitHub.
-- Make sure the README works with GitHub's Markdown renderer.
-
-IMPORTANT:
-Do not add fake GitHub contributions, fake followers, fake stars, fake projects, or fake achievements.
-
-Use my actual GitHub username:
-NithinM2387
-
-Keep my actual project information from the existing README.
-
-Do not remove my existing Featured Projects section. Instead, place it after the dashboard and keep it clean and compact.
-
-Featured Projects:
-
-🛒 Grocery Delivery Platform
-Full-stack grocery delivery application with authentication, product management, cart, orders, payments, and admin functionality.
-
-📝 Smart Notes Hub
-Notes management application with authentication, search, Markdown support, drag-and-drop organization, color-coded notes, trash/restore, and dark/light mode.
-
-🔐 Secure E-Commerce REST API
-Production-oriented REST API covering authentication, user management, products, categories, cart, wishlist, orders, payments, invoices, and administration.
-
-Use the actual technologies already defined in my current README for these projects.
-
-FINAL REQUIREMENT
-
-The final README should visually resemble a polished GitHub developer dashboard like the attached reference image, while being completely personalized for Nithin M.
-
-Do not modify my GitHub profile itself.
-Only modify README.md.
+::: {align="center"}
+### Building. Learning. Shipping. 🚀
+:::
